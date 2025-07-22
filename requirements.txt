@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sarvamai
+pydub
+python-dotenv
